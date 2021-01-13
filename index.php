@@ -1,8 +1,14 @@
 <?php
 
 echo "Olá mundo!";
- //asddd
-//outra linha
-///*/
+
 ?>
-teste
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Olá Mundo!!!</title>
+</head>
+<body>
+
+</body>
+</html>
